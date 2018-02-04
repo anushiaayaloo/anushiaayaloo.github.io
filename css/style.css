@@ -1,0 +1,110 @@
+body,
+h1,
+p {
+	margin: 0;
+}
+
+.bg-img {
+	background-image: url(../img/sunset.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.text-header{
+	font-family: 'Alegreya', serif;
+	text-align: center;
+	color: white;
+	padding-top: 30vh;
+	font-size: 10vh;
+}
+
+.bg-light {
+    background-color: #f8f9fa2e!important;
+}
+
+section	{
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+
+
+#travel-tips{
+	background-color: orange;
+}
+
+#about{
+	background-color: black;
+	color: white;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.central {
+	text-align: center;
+	padding-top: 0.70%;
+}
+
+.img-width {
+	width: 60%;
+}
+
+.img-colo {
+	width: 80%;
+}
+
+.img-moro{
+	width: 80%;
+}
+
+.img-alps{
+	width: 80%;
+}
+
+.img-china{
+	width: 70%;
+}
+
+.img-KL {
+	width: 75%;
+	padding-top: 60%;
+}
+
+.img-ny {
+	width: 90%;
+	padding-top: 60%;
+}
+
+.img-lights{
+	width: 82%;
+	padding-top: 60%;
+
+}
+
+.img-paris {
+	width: 87%;
+	padding-top: 60%;
+}
+
+h1{ 
+	padding-bottom: 10%
+ }
+
+ .travel-header {
+ 	font-size: 7vh;
+ 	padding-bottom: 9%;
+ 	padding-top: none;
+ }
+
+
+ .relative {
+ 	position: relative;
+ }
+
+ .relative-text {
+ 	color: white;
+ 	position: absolute;
+ 	top: 50%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
+ }
